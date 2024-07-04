@@ -1,0 +1,71 @@
+
+
+header {
+    background:rgb(15, 15, 72);
+    text-align: center;
+}
+
+.logo-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+nav {
+    display: flex;
+    justify-content: center;
+
+}
+
+#t1 {
+    font-size: 2.5em; 
+    margin-top: 20px; 
+    text-transform: uppercase; 
+    letter-spacing: 2px; 
+    color:black;
+    
+}
+#t2 { 
+    text-align: center;
+    text-transform: uppercase; 
+    letter-spacing: 2px; 
+    color:rgb(15, 15, 72);
+    
+}
+.i1{
+    text-align: center;
+}
+.i2{
+    text-align: center;
+}
+.ro-ko{
+    text-align: center;
+}
+.sur-catch{
+    text-align: center;
+}
+.bum{
+    text-align: center;
+}
+.bum1{
+    text-align: center;
+}
+.team{
+    text-align: center;
+}
+#text{
+    text-align: center;
+}
+
+
+nav a {
+    color:#df1696;
+    padding: 1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+nav a:hover {
+    background:rgb(15, 15, 72);
+}
